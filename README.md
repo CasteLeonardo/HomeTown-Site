@@ -6,7 +6,7 @@ A vibrant and visually engaging landing page showcasing the beauty and top attra
 
 ## 🧭 About the Project
 
-This project highlights the best things to do in Samaná through a modern web layout. From lush waterfalls to whale watching, it offers a taste of everything this paradise has to offer.
+This project highlights the best things to do in Samaná through a modern web layout. From lush waterfalls to whale watching, it offers a taste of everything this paradise has to offer to you.
 
 ## 🛠️ Built With
 
